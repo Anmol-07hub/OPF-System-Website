@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anmol-07hub.github.io/OPF-System-Website/sitemap.xml
